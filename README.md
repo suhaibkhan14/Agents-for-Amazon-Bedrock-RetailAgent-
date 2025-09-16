@@ -28,9 +28,7 @@
 - Prompt-based hallucination prevention and LLM guardrails
 - Additional hallucination detection using a secondary LLM (optional)
 - Fully automated testing (optional)
-- Comprehensive conversation analytics dashboard using [Amazon QuickSight](https://aws.amazon.com/quicksight) (optional)
-- [Amazon CloudWatch alarms](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html) and alerts (optional)
-
+- Comprehensive conversation analytics dashboard using [Amazon QuickSight]
 
 ## Architecture
 The following diagram illustrates the solution architecture. The [deployment instructions below](#deploy-and-test-the-solution) will walk you through deploying and testing each of the major subsystems, including the SageMaker notebooks.
